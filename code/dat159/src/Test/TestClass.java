@@ -10,5 +10,6 @@ public class TestClass {
 	}
 	public void print(){
 		System.out.println("Możemy iść do klubu Fantoft...");
+		System.out.println("---OK---");
 	}
 }
