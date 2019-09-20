@@ -11,6 +11,7 @@ public class Customer {
         _name = name;
     }
 
+    public 
     public String statement() {
         double totalAmount = 0;
         int frequentRenterPoints = 0;
