@@ -9,6 +9,6 @@ public class TestClass {
 		T.print();
 	}
 	public void print(){
-		System.out.println("Możemy iść do klubu Fantoft.");
+		System.out.println("Możemy iść do klubu Fantoft...");
 	}
 }
